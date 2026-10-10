@@ -10,16 +10,6 @@ window.CONTRIBUTORS = [
     "avatar_url": "https://github.com/mrharshalbane.png"
   },
   {
-    "name": "Harshal Uttam Bane",
-    "country": "India",
-    "role": "Developer",
-    "github": "https://github.com/MrHarshalBane",
-    "linkedin": "https://linkedin.com/in/harshal-bane",
-    "highlight": "Tech Geek | Marketing Wiz",
-    "github_username": "MrHarshalBane",
-    "avatar_url": "https://github.com/MrHarshalBane.png"
-  },
-  {
     "name": "Ali Arshad",
     "country": "India",
     "role": "Software Engineer",
